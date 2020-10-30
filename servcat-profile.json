@@ -1,0 +1,695 @@
+[
+	{
+		"referenceId": 1,
+		"referenceType": "Map",
+		"citation": "Harris E. 1968. Reconnaissance bathymetric map of Pyramid Lake, Nevada. U.S. Geological Survey",
+		"visibility": "Public",
+		"lifecycle": "Active",
+		"newestVersion": null,
+		"masterId": null,
+		"bibliography": {
+			"title": "Reconnaissance bathymetric map of Pyramid Lake, Nevada",
+			"issued": {
+				"bibliographic": "May 1, 1968",
+				"precision": "YYYYMMDD",
+				"year": 1968,
+				"yyyymmdd": "1968-05-01"
+			},
+			"edition": null,
+			"volume": null,
+			"issue": null,
+			"pageRange": null,
+			"dateRange": null,
+			"location": null,
+			"miscellaneousCode": null,
+			"meetingPlace": null,
+			"contentBegin": null,
+			"contentEnd": null,
+			"publisher": {
+				"publisherType": "Publisher",
+				"publisherName": "U.S. Geological Survey"
+			},
+			"sizes": [
+				{
+					"index": 2,
+					"label": "Number of Pages/Sheets",
+					"value": "3x5 Feet"
+				}
+			],
+			"abstract": null,
+			"contacts": [
+				{
+					"index": 1,
+					"contactType": "Author(s)",
+					"contacts": [
+						{
+							"title": null,
+							"primaryName": "Harris",
+							"firstName": "E.E.",
+							"middleName": null,
+							"suffix": null,
+							"affiliation": null
+						}
+					]
+				}
+			],
+			"notes": "Scale: 1:31,680",
+			"purpose": null,
+			"tableOfContents": null
+		},
+		"parent": null,
+		"series": null,
+		"filesAndLinks": null,
+		"children": null,
+		"products": null,
+		"projectAndRelatedProducts": null,
+		"crossReferences": null,
+		"units": [
+			{
+				"unitCode": "FF08RSWC00",
+				"unitName": "Stillwater National Wildlife Refuge Complex",
+				"approval": "Approved"
+			}
+		],
+		"boundingBoxes": [
+			{
+				"id": 100000,
+				"tag": "Stillwater Nwr Complx Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.28684, -118.342659 39.28684, -118.342659 39.9636154, -119.522224 39.9636154, -119.522224 39.28684))"
+			}
+		],
+		"taxa": null,
+		"subjects": null,
+		"keywords": [
+			"Bathymetric",
+			"Elevation",
+			"Nevada",
+			"Pyramid Lake",
+			"Stillwater National Wildlife Refuge"
+		],
+		"permissions": {
+			"sensitivity": "Not Sensitive - The information resource does not contain any refuge-specific, location-specific and non-public information.",
+			"sensitivityDetail": null,
+			"copyright": "No Restriction - The information is neither copyrighted nor has any other use restrictions related to it being intellectual property. For that reason, this information may be distributed to the FWS and public.",
+			"quality": "High - The information is adequately documented and organized to ensure that someone using the information can readily determine whether it will meet their specific needs.  In general, this information has been reviewed (e.g., from published journal articles or rigorous monitoring programs) and has adequate documentation about its generation.",
+			"useConstraints": null,
+			"fileAccess": "Public",
+			"referenceOwners": "Carl Lunderstadt (Carl_Lunderstadt@fws.gov); Donna Withers (Donna_Withers@fws.gov); Kaylene Keller (Kaylene_Keller@fws.gov)",
+			"usersWithFileAccess": null
+		},
+		"history": {
+			"createdBy": "Script",
+			"created": "2011-12-30",
+			"lastEditedBy": "Unknown",
+			"lastEdit": "2015-07-14T18:48:00Z",
+			"isLegacy": false
+		},
+		"versions": null
+	},
+	{
+		"referenceId": 2,
+		"referenceType": "Aerial Photograph",
+		"citation": "Flagstaff Image Processing. Carson Sink, West-Central Nevada",
+		"visibility": "Public",
+		"lifecycle": "Active",
+		"newestVersion": null,
+		"masterId": null,
+		"bibliography": {
+			"title": "Carson Sink, West-Central Nevada",
+			"issued": null,
+			"edition": null,
+			"volume": null,
+			"issue": null,
+			"pageRange": null,
+			"dateRange": null,
+			"location": null,
+			"miscellaneousCode": null,
+			"meetingPlace": null,
+			"contentBegin": {
+				"bibliographic": "October 27, 1984",
+				"precision": "YYYYMMDD",
+				"year": 1984,
+				"yyyymmdd": "1984-10-27"
+			},
+			"contentEnd": null,
+			"publisher": {
+				"publisherType": "Publisher",
+				"publisherName": "Flagstaff Image Processing"
+			},
+			"sizes": [
+				{
+					"index": 1,
+					"label": "Scale/Pixel Size",
+					"value": "36x42 Inches"
+				}
+			],
+			"abstract": null,
+			"contacts": [
+				{
+					"index": 1,
+					"contactType": "Creator(s)",
+					"contacts": [
+						{
+							"title": null,
+							"primaryName": "USGS",
+							"firstName": null,
+							"middleName": null,
+							"suffix": null,
+							"affiliation": null,
+							"isCorporate": true
+						}
+					]
+				}
+			],
+			"notes": "Path 42, Row-32,33S...   Scene ID-75024018025X0, Y5024018031X0... POS 50RAS... 9TRACK... 8BIT... 1600BPI... File 2... NL 2543 NS 3500",
+			"purpose": null,
+			"tableOfContents": null
+		},
+		"parent": null,
+		"series": null,
+		"filesAndLinks": null,
+		"children": null,
+		"products": null,
+		"projectAndRelatedProducts": null,
+		"crossReferences": null,
+		"units": [
+			{
+				"unitCode": "FF08RSWC00",
+				"unitName": "Stillwater National Wildlife Refuge Complex",
+				"approval": "Approved"
+			}
+		],
+		"boundingBoxes": [
+			{
+				"id": 100001,
+				"tag": "Stillwater Nwr Complx Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.52222601799997 39.28683810900003, -118.34265796399995 39.28683810900003, -118.34265796399995 39.96361522400008, -119.52222601799997 39.96361522400008, -119.52222601799997 39.28683810900003))"
+			}
+		],
+		"taxa": null,
+		"subjects": null,
+		"keywords": [
+			"Carson Sink",
+			"Nevada",
+			"Stillwater National Wildlife Refuge"
+		],
+		"permissions": {
+			"sensitivity": "Not Sensitive - The information resource does not contain any refuge-specific, location-specific and non-public information.",
+			"sensitivityDetail": null,
+			"copyright": "No Restriction - The information is neither copyrighted nor has any other use restrictions related to it being intellectual property. For that reason, this information may be distributed to the FWS and public.",
+			"quality": "High - The information is adequately documented and organized to ensure that someone using the information can readily determine whether it will meet their specific needs.  In general, this information has been reviewed (e.g., from published journal articles or rigorous monitoring programs) and has adequate documentation about its generation.",
+			"useConstraints": null,
+			"fileAccess": "Public",
+			"referenceOwners": "Carl Lunderstadt (Carl_Lunderstadt@fws.gov); Donna Withers (Donna_Withers@fws.gov); Kaylene Keller (Kaylene_Keller@fws.gov)",
+			"usersWithFileAccess": null
+		},
+		"history": {
+			"createdBy": "Script",
+			"created": "2011-12-30",
+			"lastEditedBy": "Script",
+			"lastEdit": "2011-12-30T21:01:00Z",
+			"isLegacy": false
+		},
+		"versions": null
+	},
+	{
+		"referenceId": 3,
+		"referenceType": "Unpublished Report",
+		"citation": "Markley CR and Stillwater Wildlife Management Area. 1954. Narrative Report : Stillwater Wildlife Management Area : January-April 1954. Fallon, Nevada",
+		"visibility": "Public",
+		"lifecycle": "Active",
+		"newestVersion": null,
+		"masterId": null,
+		"bibliography": {
+			"title": "Narrative Report : Stillwater Wildlife Management Area : January-April 1954",
+			"issued": {
+				"bibliographic": "1954",
+				"precision": "YYYY",
+				"year": 1954,
+				"yyyymmdd": "1954-01-01"
+			},
+			"edition": null,
+			"volume": null,
+			"issue": null,
+			"pageRange": null,
+			"dateRange": null,
+			"location": "Fallon, Nevada",
+			"miscellaneousCode": null,
+			"meetingPlace": null,
+			"contentBegin": {
+				"bibliographic": "January 1, 1954",
+				"precision": "YYYYMMDD",
+				"year": 1954,
+				"yyyymmdd": "1954-01-01"
+			},
+			"contentEnd": {
+				"bibliographic": "April 30, 1954",
+				"precision": "YYYYMMDD",
+				"year": 1954,
+				"yyyymmdd": "1954-04-30"
+			},
+			"publisher": null,
+			"sizes": [
+				{
+					"index": 1,
+					"label": "Number of Pages",
+					"value": "54 Pages"
+				}
+			],
+			"abstract": "This narrative report details the conditions and management of Stillwater Wildlife Management Area from January through April of 1954.  The report begins with general information about weather and water conditions on the refuge.  The second section of the report describes wildlife on the refuge and includes migratory birds, upland game birds, big game animals, fur animals, predaceous birds, and fish.  The report then covers the refuge’s development and maintenance projects such as: physical development, plantings, collections, receipts of seed and nursery stock, marsh burning, and pest plant control.  The fourth section includes information about the economic uses of the refuge such as grazing and fur harvesting.  The last two sections of the report describe field investigations, research, refuge visitors, refuge participation, fishing, and violations.  Finally, descriptions of Anaho Island National Wildlife Refuge, Fallon National Wildlife Refuge, and Winnemucca National Wildlife Refuge are given.",
+			"contacts": [
+				{
+					"index": 1,
+					"contactType": "Author(s)",
+					"contacts": [
+						{
+							"title": null,
+							"primaryName": "Markley",
+							"firstName": "Chester",
+							"middleName": "R.",
+							"suffix": null,
+							"affiliation": null
+						},
+						{
+							"title": null,
+							"primaryName": "Stillwater Wildlife Management Area",
+							"firstName": null,
+							"middleName": null,
+							"suffix": null,
+							"affiliation": null,
+							"isCorporate": true
+						}
+					]
+				}
+			],
+			"notes": null,
+			"purpose": null,
+			"tableOfContents": null
+		},
+		"parent": null,
+		"series": null,
+		"filesAndLinks": [
+			{
+				"fileId": 3,
+				"resourceType": "Digital File",
+				"description": "PDF of Report",
+				"url": "https://ecos.fws.gov/ServCat/DownloadFile/3",
+				"fileName": "SWW_1954A_ANR.pdf"
+			}
+		],
+		"children": null,
+		"products": null,
+		"projectAndRelatedProducts": null,
+		"crossReferences": null,
+		"units": [
+			{
+				"unitCode": "FF08RANH00",
+				"unitName": "Anaho Island National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RFLN00",
+				"unitName": "Fallon National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RSTL00",
+				"unitName": "Stillwater National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RSWC00",
+				"unitName": "Stillwater National Wildlife Refuge Complex",
+				"approval": "Approved"
+			}
+		],
+		"boundingBoxes": [
+			{
+				"id": 100002,
+				"tag": "Stillwater Nwr Complx Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.28684, -118.342659 39.28684, -118.342659 39.9636154, -119.522224 39.9636154, -119.522224 39.28684))"
+			},
+			{
+				"id": 100003,
+				"tag": "Anaho Island Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.94406, -119.496887 39.94406, -119.496887 39.9636154, -119.522224 39.9636154, -119.522224 39.94406))"
+			},
+			{
+				"id": 100004,
+				"tag": "Fallon Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-118.682076 39.6944237, -118.569176 39.6944237, -118.569176 39.8107834, -118.682076 39.8107834, -118.682076 39.6944237))"
+			},
+			{
+				"id": 100005,
+				"tag": "Stillwater Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.253616 39.28684, -118.342659 39.28684, -118.342659 39.72463, -119.253616 39.72463, -119.253616 39.28684))"
+			}
+		],
+		"taxa": null,
+		"subjects": [
+			"General: Management | Monitoring",
+			"General: Management | Natural Resources Management | Wildlife Management"
+		],
+		"keywords": [
+			"Annual Narrative Report"
+		],
+		"permissions": {
+			"sensitivity": "Not Sensitive - The information resource does not contain any refuge-specific, location-specific and non-public information.",
+			"sensitivityDetail": null,
+			"copyright": "No Restriction - The information is neither copyrighted nor has any other use restrictions related to it being intellectual property. For that reason, this information may be distributed to the FWS and public.",
+			"quality": "High - The information is adequately documented and organized to ensure that someone using the information can readily determine whether it will meet their specific needs.  In general, this information has been reviewed (e.g., from published journal articles or rigorous monitoring programs) and has adequate documentation about its generation.",
+			"useConstraints": null,
+			"fileAccess": "Public",
+			"referenceOwners": "Carl Lunderstadt (Carl_Lunderstadt@fws.gov); Donna Withers (Donna_Withers@fws.gov); Kaylene Keller (Kaylene_Keller@fws.gov); Richard Easterbrook (richard_easterbrook@fws.gov); Tiffany Peeken (tiffany_peeken@fws.gov*)",
+			"usersWithFileAccess": null
+		},
+		"history": {
+			"createdBy": "Script",
+			"created": "2011-12-30",
+			"lastEditedBy": "richard_easterbrook@fws.gov",
+			"lastEdit": "2016-07-25T16:14:06.587Z",
+			"isLegacy": false
+		},
+		"versions": null
+	},
+	{
+		"referenceId": 4,
+		"referenceType": "Unpublished Report",
+		"citation": "Markley CR and Stillwater Wildlife Management Area. 1954. Narrative Report : Stillwater Wildlife Management Area : May-August 1954. Fallon, Nevada",
+		"visibility": "Public",
+		"lifecycle": "Active",
+		"newestVersion": null,
+		"masterId": null,
+		"bibliography": {
+			"title": "Narrative Report : Stillwater Wildlife Management Area : May-August 1954",
+			"issued": {
+				"bibliographic": "1954",
+				"precision": "YYYY",
+				"year": 1954,
+				"yyyymmdd": "1954-01-01"
+			},
+			"edition": null,
+			"volume": null,
+			"issue": null,
+			"pageRange": null,
+			"dateRange": null,
+			"location": "Fallon, Nevada",
+			"miscellaneousCode": null,
+			"meetingPlace": null,
+			"contentBegin": {
+				"bibliographic": "May 1, 1954",
+				"precision": "YYYYMMDD",
+				"year": 1954,
+				"yyyymmdd": "1954-05-01"
+			},
+			"contentEnd": {
+				"bibliographic": "August 31, 1954",
+				"precision": "YYYYMMDD",
+				"year": 1954,
+				"yyyymmdd": "1954-08-31"
+			},
+			"publisher": null,
+			"sizes": [
+				{
+					"index": 1,
+					"label": "Number of Pages",
+					"value": "62 Pages"
+				}
+			],
+			"abstract": "This narrative report details the conditions and management of Stillwater Wildlife Management Area from May through August of 1954.  The report begins with general information about weather and water conditions on the refuge.  The second section of the report describes wildlife on the refuge and includes migratory birds, upland game birds, big game animals, fur animals, and predaceous birds.  The report then covers the refuge’s development and maintenance projects such as: physical development, plantings, and receipts of seed and nursery stock.  The fourth section includes information about the economic uses of the refuge such as grazing.  The last two sections of the report describe field investigations, research, and public relations.  Finally, descriptions of Anaho Island National Wildlife Refuge, Fallon National Wildlife Refuge, and Winnemucca National Wildlife Refuge are given.",
+			"contacts": [
+				{
+					"index": 1,
+					"contactType": "Author(s)",
+					"contacts": [
+						{
+							"title": null,
+							"primaryName": "Markley",
+							"firstName": "Chester",
+							"middleName": "R.",
+							"suffix": null,
+							"affiliation": null
+						},
+						{
+							"title": null,
+							"primaryName": "Stillwater Wildlife Management Area",
+							"firstName": null,
+							"middleName": null,
+							"suffix": null,
+							"affiliation": null,
+							"isCorporate": true
+						}
+					]
+				}
+			],
+			"notes": null,
+			"purpose": null,
+			"tableOfContents": null
+		},
+		"parent": null,
+		"series": null,
+		"filesAndLinks": [
+			{
+				"fileId": 5,
+				"resourceType": "Digital File",
+				"description": "PDF of Report",
+				"url": "https://ecos.fws.gov/ServCat/DownloadFile/5",
+				"fileName": "SWW_1954B_ANR.pdf"
+			}
+		],
+		"children": null,
+		"products": null,
+		"projectAndRelatedProducts": null,
+		"crossReferences": null,
+		"units": [
+			{
+				"unitCode": "FF08RANH00",
+				"unitName": "Anaho Island National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RFLN00",
+				"unitName": "Fallon National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RSTL00",
+				"unitName": "Stillwater National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RSWC00",
+				"unitName": "Stillwater National Wildlife Refuge Complex",
+				"approval": "Approved"
+			}
+		],
+		"boundingBoxes": [
+			{
+				"id": 100006,
+				"tag": "Stillwater Nwr Complx Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.28684, -118.342659 39.28684, -118.342659 39.9636154, -119.522224 39.9636154, -119.522224 39.28684))"
+			},
+			{
+				"id": 100007,
+				"tag": "Anaho Island Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.94406, -119.496887 39.94406, -119.496887 39.9636154, -119.522224 39.9636154, -119.522224 39.94406))"
+			},
+			{
+				"id": 100008,
+				"tag": "Fallon Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-118.682076 39.6944237, -118.569176 39.6944237, -118.569176 39.8107834, -118.682076 39.8107834, -118.682076 39.6944237))"
+			},
+			{
+				"id": 100009,
+				"tag": "Stillwater Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.253616 39.28684, -118.342659 39.28684, -118.342659 39.72463, -119.253616 39.72463, -119.253616 39.28684))"
+			}
+		],
+		"taxa": null,
+		"subjects": [
+			"General: Management | Monitoring",
+			"General: Management | Natural Resources Management | Wildlife Management"
+		],
+		"keywords": [
+			"Annual Narrative Report"
+		],
+		"permissions": {
+			"sensitivity": "Not Sensitive - The information resource does not contain any refuge-specific, location-specific and non-public information.",
+			"sensitivityDetail": null,
+			"copyright": "No Restriction - The information is neither copyrighted nor has any other use restrictions related to it being intellectual property. For that reason, this information may be distributed to the FWS and public.",
+			"quality": "High - The information is adequately documented and organized to ensure that someone using the information can readily determine whether it will meet their specific needs.  In general, this information has been reviewed (e.g., from published journal articles or rigorous monitoring programs) and has adequate documentation about its generation.",
+			"useConstraints": null,
+			"fileAccess": "Public",
+			"referenceOwners": "Carl Lunderstadt (Carl_Lunderstadt@fws.gov); Donna Withers (Donna_Withers@fws.gov); Kaylene Keller (Kaylene_Keller@fws.gov); Richard Easterbrook (richard_easterbrook@fws.gov); Tiffany Peeken (tiffany_peeken@fws.gov*)",
+			"usersWithFileAccess": null
+		},
+		"history": {
+			"createdBy": "Script",
+			"created": "2011-12-30",
+			"lastEditedBy": "Unknown",
+			"lastEdit": "2014-04-07T18:01:00Z",
+			"isLegacy": false
+		},
+		"versions": null
+	},
+	{
+		"referenceId": 5,
+		"referenceType": "Unpublished Report",
+		"citation": "Markley CR and Stillwater Wildlife Management Area. 1954. Narrative Report : Stillwater Wildlife Management Area : September-December 1954. Fallon, Nevada",
+		"visibility": "Public",
+		"lifecycle": "Active",
+		"newestVersion": null,
+		"masterId": null,
+		"bibliography": {
+			"title": "Narrative Report : Stillwater Wildlife Management Area : September-December 1954",
+			"issued": {
+				"bibliographic": "1954",
+				"precision": "YYYY",
+				"year": 1954,
+				"yyyymmdd": "1954-01-01"
+			},
+			"edition": null,
+			"volume": null,
+			"issue": null,
+			"pageRange": null,
+			"dateRange": null,
+			"location": "Fallon, Nevada",
+			"miscellaneousCode": null,
+			"meetingPlace": null,
+			"contentBegin": {
+				"bibliographic": "September 1, 1954",
+				"precision": "YYYYMMDD",
+				"year": 1954,
+				"yyyymmdd": "1954-09-01"
+			},
+			"contentEnd": {
+				"bibliographic": "December 31, 1954",
+				"precision": "YYYYMMDD",
+				"year": 1954,
+				"yyyymmdd": "1954-12-31"
+			},
+			"publisher": null,
+			"sizes": [
+				{
+					"index": 1,
+					"label": "Number of Pages",
+					"value": "43 Pages"
+				}
+			],
+			"abstract": "This narrative report details the conditions and management of Stillwater Wildlife Management Area from September through December of 1954.  The report begins with general information about weather and water conditions on the refuge.  The second section of the report describes wildlife on the refuge and includes migratory birds, upland game birds, big game animals, fur animals, and predaceous birds.  The report then covers the refuge’s development and maintenance projects such as: physical development and plantings.  The fourth section includes information about the economic uses of the refuge such as grazing and trapping.  The last two sections of the report describe field investigations, research, waterfowl banding, and public relations.  Finally, descriptions of Anaho Island National Wildlife Refuge, Fallon National Wildlife Refuge, and Winnemucca National Wildlife Refuge are given.",
+			"contacts": [
+				{
+					"index": 1,
+					"contactType": "Author(s)",
+					"contacts": [
+						{
+							"title": null,
+							"primaryName": "Markley",
+							"firstName": "Chester",
+							"middleName": "R.",
+							"suffix": null,
+							"affiliation": null
+						},
+						{
+							"title": null,
+							"primaryName": "Stillwater Wildlife Management Area",
+							"firstName": null,
+							"middleName": null,
+							"suffix": null,
+							"affiliation": null,
+							"isCorporate": true
+						}
+					]
+				}
+			],
+			"notes": null,
+			"purpose": null,
+			"tableOfContents": null
+		},
+		"parent": null,
+		"series": null,
+		"filesAndLinks": [
+			{
+				"fileId": 7,
+				"resourceType": "Digital File",
+				"description": "PDF of Report",
+				"url": "https://ecos.fws.gov/ServCat/DownloadFile/7",
+				"fileName": "SWW_1954C_ANR.pdf"
+			}
+		],
+		"children": null,
+		"products": null,
+		"projectAndRelatedProducts": null,
+		"crossReferences": null,
+		"units": [
+			{
+				"unitCode": "FF08RANH00",
+				"unitName": "Anaho Island National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RFLN00",
+				"unitName": "Fallon National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RSTL00",
+				"unitName": "Stillwater National Wildlife Refuge",
+				"approval": "Approved"
+			},
+			{
+				"unitCode": "FF08RSWC00",
+				"unitName": "Stillwater National Wildlife Refuge Complex",
+				"approval": "Approved"
+			}
+		],
+		"boundingBoxes": [
+			{
+				"id": 100010,
+				"tag": "Stillwater Nwr Complx Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.28684, -118.342659 39.28684, -118.342659 39.9636154, -119.522224 39.9636154, -119.522224 39.28684))"
+			},
+			{
+				"id": 100011,
+				"tag": "Anaho Island Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.522224 39.94406, -119.496887 39.94406, -119.496887 39.9636154, -119.522224 39.9636154, -119.522224 39.94406))"
+			},
+			{
+				"id": 100012,
+				"tag": "Fallon Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-118.682076 39.6944237, -118.569176 39.6944237, -118.569176 39.8107834, -118.682076 39.8107834, -118.682076 39.6944237))"
+			},
+			{
+				"id": 100013,
+				"tag": "Stillwater Nwr Default Bounding Rectangle",
+				"wkt": "POLYGON ((-119.253616 39.28684, -118.342659 39.28684, -118.342659 39.72463, -119.253616 39.72463, -119.253616 39.28684))"
+			}
+		],
+		"taxa": null,
+		"subjects": [
+			"General: Management | Monitoring",
+			"General: Management | Natural Resources Management | Wildlife Management"
+		],
+		"keywords": [
+			"Annual Narrative Report"
+		],
+		"permissions": {
+			"sensitivity": "Not Sensitive - The information resource does not contain any refuge-specific, location-specific and non-public information.",
+			"sensitivityDetail": null,
+			"copyright": "No Restriction - The information is neither copyrighted nor has any other use restrictions related to it being intellectual property. For that reason, this information may be distributed to the FWS and public.",
+			"quality": "High - The information is adequately documented and organized to ensure that someone using the information can readily determine whether it will meet their specific needs.  In general, this information has been reviewed (e.g., from published journal articles or rigorous monitoring programs) and has adequate documentation about its generation.",
+			"useConstraints": null,
+			"fileAccess": "Public",
+			"referenceOwners": "Carl Lunderstadt (Carl_Lunderstadt@fws.gov); Donna Withers (Donna_Withers@fws.gov); Kaylene Keller (Kaylene_Keller@fws.gov); Richard Easterbrook (richard_easterbrook@fws.gov); Tiffany Peeken (tiffany_peeken@fws.gov*)",
+			"usersWithFileAccess": null
+		},
+		"history": {
+			"createdBy": "Script",
+			"created": "2011-12-30",
+			"lastEditedBy": "Unknown",
+			"lastEdit": "2014-04-07T18:02:00Z",
+			"isLegacy": false
+		},
+		"versions": null
+	}
+]
